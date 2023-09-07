@@ -1,2 +1,2 @@
 # market-basket-analysis
-R - studio project 
+applying assiociation rule on the sales data to get perfom sales analysis.
